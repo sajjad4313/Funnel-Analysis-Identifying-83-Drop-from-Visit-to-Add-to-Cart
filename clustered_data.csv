@@ -1,0 +1,258 @@
+Event Date,User ID,Event Name,Page Title,Source/Medium,Device Category,Country,Event Count,Session Duration,Scroll Depth (%),Time on Meal Page (s),Clicked Nutrition Info,Clicked Image,Returning User,Meal Category,Price Viewed,CTA Clicked,Feedback Given,Exit Page,Engagement Score,Language,Promo Code Used,Error Encountered,cluster
+04/07/2025,17395,visit_home,Home,email/campaign,mobile,Qatar,1,554,28,0,No,No,Yes,Vegan,,No,No,No,56,English,Yes,No,1
+04/07/2025,17395,view_menu,Menu,email/campaign,mobile,Qatar,1,433,32,0,No,No,No,Vegan,,No,No,No,62,Arabic,No,No,2
+04/07/2025,17395,view_meal,Zucchini Noodles,email/campaign,mobile,Qatar,1,311,71,275,No,Yes,No,Balanced,$$,No,No,No,55,Arabic,No,No,0
+04/07/2025,17395,add_to_cart,Veggie Wrap,email/campaign,mobile,Qatar,1,416,49,249,No,Yes,No,Balanced,$,Yes,Yes,No,77,Arabic,No,No,0
+04/07/2025,17395,checkout,Checkout,email/campaign,mobile,Qatar,1,247,79,0,No,No,No,Balanced,,Yes,No,No,93,English,No,No,2
+13/07/2025,10480,visit_home,Home,email/campaign,desktop,Qatar,1,379,62,0,No,No,No,Balanced,,No,Yes,No,61,English,No,No,2
+13/07/2025,10480,view_menu,Menu,email/campaign,desktop,Qatar,1,119,85,0,No,No,No,Balanced,,No,No,Yes,21,English,No,No,2
+13/07/2025,10480,view_meal,Protein Pancakes,email/campaign,desktop,Qatar,1,118,36,80,No,Yes,No,Protein-Rich,$,No,No,No,36,English,No,No,0
+13/07/2025,10480,add_to_cart,Chia Seed Pudding,email/campaign,desktop,Qatar,1,482,68,25,No,Yes,No,Vegan,$$$,Yes,No,No,48,Arabic,Yes,No,0
+13/07/2025,10480,checkout,Checkout,email/campaign,desktop,Qatar,1,507,36,0,No,No,No,Balanced,,Yes,No,Yes,54,Arabic,No,No,2
+06/07/2025,59830,visit_home,Home,email/campaign,tablet,Qatar,1,195,10,0,No,No,No,Balanced,,No,No,No,77,English,No,No,2
+06/07/2025,59830,view_menu,Menu,email/campaign,tablet,Qatar,1,224,96,0,No,No,No,Balanced,,No,Yes,Yes,71,English,No,No,2
+06/07/2025,59830,view_meal,Chia Seed Pudding,email/campaign,tablet,Qatar,1,369,35,57,No,No,Yes,Vegan,$$,No,No,No,92,English,No,No,2
+06/07/2025,59830,add_to_cart,Zucchini Noodles,email/campaign,tablet,Qatar,1,181,85,188,No,Yes,Yes,Balanced,$$,Yes,No,Yes,36,English,No,No,0
+06/07/2025,59830,checkout,Checkout,email/campaign,tablet,Qatar,1,39,38,0,No,No,No,Balanced,,Yes,No,No,59,English,No,No,2
+20/07/2025,54462,visit_home,Home,instagram/cpc,mobile,Qatar,1,311,88,0,No,No,No,Balanced,,No,No,No,39,English,Yes,No,1
+20/07/2025,54462,view_menu,Menu,instagram/cpc,mobile,Qatar,1,219,42,0,No,No,No,Balanced,,No,No,No,39,English,No,No,2
+20/07/2025,54462,view_meal,Protein Pancakes,instagram/cpc,mobile,Qatar,1,235,97,27,No,Yes,No,Vegan,$$$,No,No,No,69,English,No,Yes,0
+20/07/2025,54462,add_to_cart,Avocado Toast,instagram/cpc,mobile,Qatar,1,398,48,30,No,Yes,No,Balanced,$,Yes,No,No,97,English,Yes,No,0
+20/07/2025,54462,checkout,Checkout,instagram/cpc,mobile,Qatar,1,320,43,0,No,No,Yes,Balanced,,Yes,No,No,61,English,No,No,2
+06/07/2025,82464,visit_home,Home,google/organic,desktop,Qatar,1,322,18,0,No,No,No,Balanced,,No,No,Yes,76,English,No,No,2
+06/07/2025,82464,view_menu,Menu,google/organic,desktop,Qatar,1,260,97,0,No,No,No,Balanced,,No,Yes,Yes,83,English,No,No,2
+06/07/2025,82464,view_meal,Low-carb Pizza,google/organic,desktop,Qatar,1,561,86,202,Yes,No,No,Low-Carb,$,No,No,No,37,English,Yes,No,0
+06/07/2025,82464,add_to_cart,Keto Chicken,google/organic,desktop,Qatar,1,30,78,98,Yes,Yes,No,Balanced,$$,Yes,No,No,82,English,Yes,No,0
+06/07/2025,82464,checkout,Checkout,google/organic,desktop,Qatar,1,55,69,0,No,No,Yes,Balanced,,Yes,No,No,44,Arabic,No,No,2
+17/07/2025,64374,visit_home,Home,facebook/cpc,tablet,Qatar,1,249,29,0,No,No,No,Balanced,,No,No,No,27,Arabic,No,No,2
+17/07/2025,64374,view_menu,Menu,facebook/cpc,tablet,Qatar,1,374,21,0,No,No,Yes,Balanced,,No,No,No,51,English,No,No,2
+17/07/2025,64374,view_meal,Zucchini Noodles,facebook/cpc,tablet,Qatar,1,349,39,209,No,Yes,No,Low-Carb,$,No,No,No,38,English,No,No,0
+17/07/2025,64374,add_to_cart,Avocado Toast,facebook/cpc,tablet,Qatar,1,496,74,215,No,Yes,No,Balanced,$$$,Yes,No,No,92,Arabic,No,No,0
+17/07/2025,64374,checkout,Checkout,facebook/cpc,tablet,Qatar,1,265,90,0,No,No,No,Balanced,,Yes,No,Yes,26,English,No,No,2
+03/07/2025,26680,visit_home,Home,facebook/cpc,tablet,Qatar,1,274,58,0,No,No,No,Balanced,,No,No,No,24,English,No,No,2
+03/07/2025,26680,view_menu,Menu,facebook/cpc,tablet,Qatar,1,228,88,0,No,No,No,Balanced,,No,No,No,77,English,No,No,2
+03/07/2025,26680,view_meal,Chia Seed Pudding,facebook/cpc,tablet,Qatar,1,178,66,145,No,Yes,Yes,Protein-Rich,$,No,No,Yes,90,English,No,No,0
+03/07/2025,26680,add_to_cart,Zucchini Noodles,facebook/cpc,tablet,Qatar,1,406,28,109,No,No,Yes,Low-Carb,$$$,Yes,No,No,20,English,No,No,0
+03/07/2025,26680,checkout,Checkout,facebook/cpc,tablet,Qatar,1,132,95,0,No,No,No,Balanced,,Yes,Yes,No,63,Arabic,No,No,2
+22/07/2025,54004,visit_home,Home,google/organic,desktop,Qatar,1,132,23,0,No,No,No,Balanced,,No,No,No,69,English,No,No,2
+22/07/2025,54004,view_menu,Menu,google/organic,desktop,Qatar,1,110,23,0,No,No,No,Balanced,,No,No,No,47,English,No,No,2
+22/07/2025,54004,view_meal,Grilled Chicken Salad,google/organic,desktop,Qatar,1,544,64,50,Yes,Yes,Yes,Protein-Rich,$$,No,Yes,No,71,English,No,No,0
+22/07/2025,54004,add_to_cart,Veggie Wrap,google/organic,desktop,Qatar,1,510,12,280,Yes,No,No,Balanced,$$,Yes,No,No,81,English,No,No,0
+22/07/2025,54004,checkout,Checkout,google/organic,desktop,Qatar,1,354,57,0,No,No,Yes,Balanced,,Yes,No,Yes,53,Arabic,No,No,2
+04/07/2025,97965,visit_home,Home,direct/none,tablet,Qatar,1,169,15,0,No,No,No,Balanced,,No,No,Yes,62,English,No,No,2
+04/07/2025,97965,view_menu,Menu,direct/none,tablet,Qatar,1,163,92,0,No,No,No,Balanced,,No,No,No,47,Arabic,No,No,2
+04/07/2025,97965,view_meal,Low-carb Pizza,direct/none,tablet,Qatar,1,93,98,77,No,No,No,Balanced,$$,No,No,No,89,English,No,No,2
+04/07/2025,97965,add_to_cart,Protein Pancakes,direct/none,tablet,Qatar,1,348,62,178,Yes,Yes,No,Protein-Rich,$$,Yes,No,Yes,80,English,No,No,0
+04/07/2025,97965,checkout,Checkout,direct/none,tablet,Qatar,1,316,89,0,No,No,No,Balanced,,Yes,No,No,83,Arabic,No,No,2
+01/07/2025,96994,visit_home,Home,email/campaign,mobile,Qatar,1,268,84,0,No,No,No,Balanced,,No,No,No,70,English,Yes,No,1
+01/07/2025,96994,view_menu,Menu,email/campaign,mobile,Qatar,1,340,29,0,No,No,Yes,Balanced,,No,Yes,No,92,English,No,No,2
+01/07/2025,96994,view_meal,Tofu Stir Fry,email/campaign,mobile,Qatar,1,13,85,10,No,Yes,Yes,Low-Carb,$$$,No,No,No,25,English,Yes,No,1
+01/07/2025,96994,add_to_cart,Cauliflower Rice,email/campaign,mobile,Qatar,1,211,75,134,Yes,No,No,Low-Carb,$,Yes,No,No,81,English,No,No,0
+01/07/2025,96994,checkout,Checkout,email/campaign,mobile,Qatar,1,348,80,0,No,No,No,Balanced,,Yes,No,No,98,English,Yes,No,1
+10/07/2025,99355,visit_home,Home,instagram/cpc,tablet,Qatar,1,186,91,0,No,No,Yes,Balanced,,No,No,No,80,English,No,No,2
+10/07/2025,99355,view_menu,Menu,instagram/cpc,tablet,Qatar,1,238,65,0,No,No,No,Balanced,,No,No,No,67,English,No,No,2
+10/07/2025,99355,view_meal,Avocado Toast,instagram/cpc,tablet,Qatar,1,22,35,215,No,Yes,No,Protein-Rich,$$,No,No,No,97,English,No,Yes,0
+10/07/2025,99355,add_to_cart,Veggie Wrap,instagram/cpc,tablet,Qatar,1,212,86,196,Yes,No,No,Low-Carb,$$$,Yes,No,Yes,24,English,No,No,0
+10/07/2025,92985,visit_home,Home,email/campaign,desktop,Qatar,1,112,12,0,No,No,Yes,Balanced,,No,No,No,46,English,Yes,No,1
+10/07/2025,92985,view_menu,Menu,email/campaign,desktop,Qatar,1,361,51,0,No,No,No,Balanced,,No,No,No,88,English,No,No,2
+10/07/2025,92985,view_meal,Tofu Stir Fry,email/campaign,desktop,Qatar,1,597,52,53,No,No,Yes,Protein-Rich,$$,No,No,No,68,English,No,No,2
+10/07/2025,92985,add_to_cart,Grilled Chicken Salad,email/campaign,desktop,Qatar,1,380,25,49,No,No,No,Keto,$,Yes,No,No,95,English,No,No,0
+03/07/2025,88903,visit_home,Home,google/organic,tablet,Qatar,1,62,35,0,No,No,No,Balanced,,No,No,No,62,English,Yes,Yes,1
+03/07/2025,88903,view_menu,Menu,google/organic,tablet,Qatar,1,413,85,0,No,No,No,Balanced,,No,No,No,90,Arabic,No,No,2
+03/07/2025,88903,view_meal,Cauliflower Rice,google/organic,tablet,Qatar,1,280,95,11,No,No,Yes,Low-Carb,$$$,No,No,No,48,English,No,No,2
+03/07/2025,88903,add_to_cart,Chia Seed Pudding,google/organic,tablet,Qatar,1,89,22,177,No,No,Yes,Keto,$$$,Yes,No,Yes,57,English,No,No,0
+04/07/2025,15012,visit_home,Home,facebook/cpc,tablet,Qatar,1,99,55,0,No,No,No,Balanced,,No,No,No,65,English,Yes,No,1
+04/07/2025,15012,view_menu,Menu,facebook/cpc,tablet,Qatar,1,572,23,0,No,No,No,Balanced,,No,No,No,45,English,No,No,2
+04/07/2025,15012,view_meal,Veggie Wrap,facebook/cpc,tablet,Qatar,1,198,91,61,Yes,Yes,No,Low-Carb,$$$,No,No,No,24,English,Yes,Yes,0
+04/07/2025,15012,add_to_cart,Keto Chicken,facebook/cpc,tablet,Qatar,1,553,70,175,No,Yes,Yes,Protein-Rich,$,Yes,No,Yes,74,English,No,No,0
+11/07/2025,76235,visit_home,Home,direct/none,mobile,Qatar,1,430,88,0,No,No,No,Balanced,,No,Yes,No,78,English,No,Yes,2
+11/07/2025,76235,view_menu,Menu,direct/none,mobile,Qatar,1,299,26,0,No,No,No,Balanced,,No,No,Yes,70,Arabic,No,No,2
+11/07/2025,76235,view_meal,Turkey Sandwich,direct/none,mobile,Qatar,1,553,14,207,Yes,No,No,Vegan,$$,No,No,No,61,English,No,No,0
+11/07/2025,76235,add_to_cart,Grilled Chicken Salad,direct/none,mobile,Qatar,1,129,69,226,Yes,No,Yes,Vegan,$$,Yes,No,No,22,English,No,No,0
+02/07/2025,23965,visit_home,Home,email/campaign,mobile,Qatar,1,294,91,0,No,No,No,Balanced,,No,No,No,22,English,No,No,2
+02/07/2025,23965,view_menu,Menu,email/campaign,mobile,Qatar,1,523,68,0,No,No,Yes,Balanced,,No,No,No,57,English,No,No,2
+02/07/2025,23965,view_meal,Tofu Stir Fry,email/campaign,mobile,Qatar,1,489,36,32,Yes,No,No,Balanced,$$$,No,No,No,98,English,No,No,0
+02/07/2025,23965,add_to_cart,Grilled Chicken Salad,email/campaign,mobile,Qatar,1,576,58,204,Yes,No,Yes,Protein-Rich,$$$,Yes,No,No,27,English,No,No,0
+14/07/2025,33483,visit_home,Home,instagram/cpc,tablet,Qatar,1,89,46,0,No,No,No,Balanced,,No,No,No,24,English,No,No,2
+14/07/2025,33483,view_menu,Menu,instagram/cpc,tablet,Qatar,1,404,97,0,No,No,No,Balanced,,No,No,No,65,English,Yes,No,1
+14/07/2025,33483,view_meal,Tofu Stir Fry,instagram/cpc,tablet,Qatar,1,330,90,255,Yes,Yes,No,Balanced,$,No,No,Yes,20,Arabic,No,No,0
+14/07/2025,33483,add_to_cart,Quinoa Bowl,instagram/cpc,tablet,Qatar,1,288,59,166,No,Yes,No,Low-Carb,$$,Yes,No,No,50,English,No,No,0
+17/07/2025,68618,visit_home,Home,instagram/cpc,tablet,Qatar,1,172,27,0,No,No,Yes,Balanced,,No,No,Yes,45,English,No,Yes,2
+17/07/2025,68618,view_menu,Menu,instagram/cpc,tablet,Qatar,1,311,46,0,No,No,Yes,Keto,,No,Yes,Yes,40,Arabic,No,No,2
+17/07/2025,68618,view_meal,Avocado Toast,instagram/cpc,tablet,Qatar,1,276,42,158,No,No,Yes,Protein-Rich,$$,No,No,No,42,English,Yes,No,1
+21/07/2025,17512,visit_home,Home,email/campaign,tablet,Qatar,1,376,21,0,No,No,No,Keto,,No,No,No,98,English,Yes,No,1
+21/07/2025,17512,view_menu,Menu,email/campaign,tablet,Qatar,1,302,38,0,No,No,Yes,Keto,,No,No,No,70,English,Yes,No,1
+21/07/2025,17512,view_meal,Keto Chicken,email/campaign,tablet,Qatar,1,555,72,251,Yes,No,No,Protein-Rich,$$$,No,No,No,29,English,No,No,0
+03/07/2025,20423,visit_home,Home,direct/none,tablet,Qatar,1,294,23,0,No,No,No,Keto,,No,No,No,21,English,No,No,2
+03/07/2025,20423,view_menu,Menu,direct/none,tablet,Qatar,1,253,54,0,No,No,No,Keto,,No,No,No,27,English,No,No,2
+03/07/2025,20423,view_meal,Quinoa Bowl,direct/none,tablet,Qatar,1,452,91,189,Yes,Yes,No,Keto,$$$,No,No,No,89,English,No,Yes,0
+05/07/2025,44527,visit_home,Home,facebook/cpc,desktop,Qatar,1,150,25,0,No,No,No,Keto,,No,No,Yes,65,Arabic,No,No,2
+05/07/2025,44527,view_menu,Menu,facebook/cpc,desktop,Qatar,1,101,86,0,No,No,Yes,Keto,,No,No,No,98,Arabic,No,No,2
+05/07/2025,44527,view_meal,Avocado Toast,facebook/cpc,desktop,Qatar,1,349,10,165,No,Yes,No,Protein-Rich,$$$,No,No,Yes,82,English,No,No,0
+04/07/2025,78838,visit_home,Home,facebook/cpc,desktop,Qatar,1,375,87,0,No,No,No,Keto,,No,Yes,No,59,English,No,No,2
+04/07/2025,78838,view_menu,Menu,facebook/cpc,desktop,Qatar,1,384,74,0,No,No,No,Keto,,No,No,Yes,82,Arabic,No,No,2
+04/07/2025,78838,view_meal,Quinoa Bowl,facebook/cpc,desktop,Qatar,1,570,77,266,No,No,No,Balanced,$,No,No,No,37,English,No,No,0
+18/07/2025,98750,visit_home,Home,direct/none,mobile,Qatar,1,354,56,0,No,No,Yes,Keto,,No,No,No,72,English,No,No,2
+18/07/2025,98750,view_menu,Menu,direct/none,mobile,Qatar,1,415,47,0,No,No,No,Keto,,No,No,No,60,English,No,No,2
+18/07/2025,98750,view_meal,Avocado Toast,direct/none,mobile,Qatar,1,183,96,94,No,No,Yes,Protein-Rich,$$,No,No,Yes,84,English,No,No,2
+17/07/2025,75018,visit_home,Home,google/organic,desktop,Qatar,1,198,65,0,No,No,Yes,Keto,,No,No,No,61,English,No,No,2
+17/07/2025,75018,view_menu,Menu,google/organic,desktop,Qatar,1,264,71,0,No,No,No,Keto,,No,No,No,80,Arabic,No,No,2
+17/07/2025,75018,view_meal,Chia Seed Pudding,google/organic,desktop,Qatar,1,181,63,224,No,Yes,No,Protein-Rich,$,No,No,Yes,40,Arabic,Yes,No,0
+05/07/2025,40561,visit_home,Home,facebook/cpc,tablet,Qatar,1,127,11,0,No,No,No,Keto,,No,No,No,91,English,No,No,2
+05/07/2025,40561,view_menu,Menu,facebook/cpc,tablet,Qatar,1,93,43,0,No,No,Yes,Keto,,No,No,No,32,English,No,No,2
+05/07/2025,40561,view_meal,Grilled Chicken Salad,facebook/cpc,tablet,Qatar,1,174,57,127,Yes,Yes,No,Low-Carb,$$,No,No,No,99,English,No,No,0
+21/07/2025,59004,visit_home,Home,instagram/cpc,tablet,Qatar,1,32,89,0,No,No,Yes,Keto,,No,No,No,61,English,Yes,No,1
+21/07/2025,59004,view_menu,Menu,instagram/cpc,tablet,Qatar,1,570,97,0,No,No,Yes,Keto,,No,No,No,61,English,No,No,2
+21/07/2025,59004,view_meal,Chia Seed Pudding,instagram/cpc,tablet,Qatar,1,114,82,42,No,No,No,Vegan,$$,No,No,Yes,50,English,Yes,No,1
+04/07/2025,30973,visit_home,Home,direct/none,tablet,Qatar,1,183,15,0,No,No,No,Keto,,No,No,No,59,English,No,Yes,2
+04/07/2025,30973,view_menu,Menu,direct/none,tablet,Qatar,1,198,60,0,No,No,No,Keto,,No,No,No,86,English,Yes,No,1
+04/07/2025,30973,view_meal,Veggie Wrap,direct/none,tablet,Qatar,1,148,30,35,Yes,Yes,Yes,Keto,$,No,No,No,99,English,No,No,0
+20/07/2025,53253,visit_home,Home,direct/none,tablet,Qatar,1,168,24,0,No,No,No,Keto,,No,No,No,63,Arabic,No,No,2
+20/07/2025,53253,view_menu,Menu,direct/none,tablet,Qatar,1,97,76,0,No,No,No,Keto,,No,No,Yes,33,Arabic,No,No,2
+20/07/2025,53253,view_meal,Grilled Salmon,direct/none,tablet,Qatar,1,374,80,172,No,No,No,Balanced,$$,No,No,No,53,English,No,No,2
+10/07/2025,37919,visit_home,Home,email/campaign,desktop,Qatar,1,284,42,0,No,No,Yes,Keto,,No,No,No,28,English,No,No,2
+10/07/2025,37919,view_menu,Menu,email/campaign,desktop,Qatar,1,278,96,0,No,No,No,Keto,,No,No,Yes,32,Arabic,No,No,2
+10/07/2025,37919,view_meal,Avocado Toast,email/campaign,desktop,Qatar,1,111,95,80,No,No,No,Keto,$$$,No,No,Yes,22,English,No,No,2
+16/07/2025,75959,visit_home,Home,direct/none,tablet,Qatar,1,272,88,0,No,No,No,Keto,,No,No,No,41,English,No,No,2
+16/07/2025,75959,view_menu,Menu,direct/none,tablet,Qatar,1,502,48,0,No,No,No,Keto,,No,No,No,59,English,No,Yes,2
+16/07/2025,75959,view_meal,Keto Chicken,direct/none,tablet,Qatar,1,518,12,36,Yes,No,No,Keto,$$$,No,No,No,93,English,No,No,0
+21/07/2025,79604,visit_home,Home,email/campaign,tablet,Qatar,1,453,12,0,No,No,Yes,Keto,,No,Yes,Yes,48,English,No,No,2
+21/07/2025,79604,view_menu,Menu,email/campaign,tablet,Qatar,1,366,55,0,No,No,Yes,Keto,,No,No,No,58,English,No,No,2
+21/07/2025,79604,view_meal,Quinoa Bowl,email/campaign,tablet,Qatar,1,150,68,59,No,No,No,Balanced,$$$,No,No,No,75,English,No,No,2
+17/07/2025,25084,visit_home,Home,email/campaign,desktop,Qatar,1,240,69,0,No,No,No,Keto,,No,No,No,84,English,No,No,2
+17/07/2025,25084,view_menu,Menu,email/campaign,desktop,Qatar,1,82,10,0,No,No,Yes,Keto,,No,Yes,Yes,21,English,No,No,2
+17/07/2025,25084,view_meal,Veggie Wrap,email/campaign,desktop,Qatar,1,403,82,118,No,No,No,Keto,$,No,No,No,34,English,No,No,2
+05/07/2025,49869,visit_home,Home,instagram/cpc,mobile,Qatar,1,425,91,0,No,No,No,Keto,,No,No,No,43,English,No,No,2
+05/07/2025,49869,view_menu,Menu,instagram/cpc,mobile,Qatar,1,234,45,0,No,No,Yes,Keto,,No,No,No,62,English,No,No,2
+05/07/2025,49869,view_meal,Low-carb Pizza,instagram/cpc,mobile,Qatar,1,454,71,214,No,No,No,Protein-Rich,$$$,No,No,No,97,English,Yes,No,1
+15/07/2025,53191,visit_home,Home,direct/none,mobile,Qatar,1,558,80,0,No,No,No,Keto,,No,No,No,73,Arabic,No,No,2
+15/07/2025,53191,view_menu,Menu,direct/none,mobile,Qatar,1,421,63,0,No,No,No,Keto,,No,Yes,No,64,English,Yes,No,1
+15/07/2025,53191,view_meal,Quinoa Bowl,direct/none,mobile,Qatar,1,343,84,255,Yes,Yes,No,Balanced,$$$,No,Yes,No,83,English,No,No,0
+15/07/2025,24444,visit_home,Home,direct/none,tablet,Qatar,1,108,75,0,No,No,Yes,Keto,,No,No,No,77,English,Yes,No,1
+15/07/2025,24444,view_menu,Menu,direct/none,tablet,Qatar,1,74,79,0,No,No,Yes,Keto,,No,No,No,38,English,No,Yes,2
+15/07/2025,24444,view_meal,Smoothie Bowl,direct/none,tablet,Qatar,1,175,83,47,No,Yes,No,Protein-Rich,$$$,No,No,Yes,52,English,No,No,0
+16/07/2025,98305,visit_home,Home,facebook/cpc,desktop,Qatar,1,521,81,0,No,No,No,Keto,,No,No,Yes,56,English,No,No,2
+16/07/2025,98305,view_menu,Menu,facebook/cpc,desktop,Qatar,1,423,68,0,No,No,No,Keto,,No,No,No,71,English,No,No,2
+16/07/2025,98305,view_meal,Tofu Stir Fry,facebook/cpc,desktop,Qatar,1,10,58,87,Yes,No,Yes,Keto,$,No,No,No,89,Arabic,No,No,0
+15/07/2025,98132,visit_home,Home,direct/none,tablet,Qatar,1,476,72,0,No,No,No,Keto,,No,No,No,24,English,No,No,2
+15/07/2025,98132,view_menu,Menu,direct/none,tablet,Qatar,1,460,82,0,No,No,Yes,Keto,,No,No,No,62,English,No,No,2
+15/07/2025,98132,view_meal,Quinoa Bowl,direct/none,tablet,Qatar,1,136,94,292,No,No,Yes,Balanced,$,No,No,Yes,81,Arabic,No,Yes,0
+10/07/2025,52639,visit_home,Home,google/organic,tablet,Qatar,1,310,32,0,No,No,Yes,Keto,,No,No,No,32,Arabic,No,No,2
+10/07/2025,52639,view_menu,Menu,google/organic,tablet,Qatar,1,118,13,0,No,No,Yes,Keto,,No,No,No,34,English,Yes,No,1
+10/07/2025,52639,view_meal,Smoothie Bowl,google/organic,tablet,Qatar,1,116,97,197,No,No,No,Low-Carb,$,No,Yes,No,23,English,No,No,0
+10/07/2025,67660,visit_home,Home,google/organic,mobile,Qatar,1,118,68,0,No,No,No,Keto,,No,No,No,48,English,No,No,2
+10/07/2025,67660,view_menu,Menu,google/organic,mobile,Qatar,1,203,11,0,No,No,Yes,Keto,,No,No,No,89,English,No,No,2
+10/07/2025,67660,view_meal,Smoothie Bowl,google/organic,mobile,Qatar,1,132,86,40,No,No,No,Vegan,$$$,No,No,No,68,Arabic,No,No,2
+22/07/2025,88808,visit_home,Home,facebook/cpc,tablet,Qatar,1,200,96,0,No,No,No,Keto,,No,No,No,77,English,No,No,2
+22/07/2025,88808,view_menu,Menu,facebook/cpc,tablet,Qatar,1,296,24,0,No,No,No,Keto,,No,No,Yes,76,English,No,No,2
+22/07/2025,88808,view_meal,Oatmeal Power Bowl,facebook/cpc,tablet,Qatar,1,63,42,99,Yes,No,Yes,Protein-Rich,$$$,No,No,No,70,English,No,No,0
+14/07/2025,64995,visit_home,Home,google/organic,tablet,Qatar,1,172,42,0,No,No,No,Low-Carb,,No,No,No,61,English,No,No,2
+14/07/2025,64995,view_menu,Menu,google/organic,tablet,Qatar,1,549,99,0,No,No,No,Low-Carb,,No,No,Yes,28,English,Yes,No,1
+14/07/2025,64995,view_meal,Quinoa Bowl,google/organic,tablet,Qatar,1,77,15,48,Yes,No,No,Vegan,$,No,No,No,45,Arabic,No,No,0
+09/07/2025,25693,visit_home,Home,facebook/cpc,desktop,Qatar,1,494,91,0,No,No,No,Low-Carb,,No,No,No,72,English,Yes,No,1
+09/07/2025,25693,view_menu,Menu,facebook/cpc,desktop,Qatar,1,145,61,0,No,No,No,Low-Carb,,No,No,Yes,20,Arabic,No,No,2
+09/07/2025,25693,view_meal,Smoothie Bowl,facebook/cpc,desktop,Qatar,1,452,20,206,Yes,Yes,No,Keto,$,No,No,Yes,35,English,No,No,0
+18/07/2025,59948,visit_home,Home,instagram/cpc,tablet,Qatar,1,350,13,0,No,No,Yes,Low-Carb,,No,Yes,No,70,English,No,No,2
+18/07/2025,59948,view_menu,Menu,instagram/cpc,tablet,Qatar,1,313,31,0,No,No,Yes,Low-Carb,,No,No,Yes,83,English,No,No,2
+18/07/2025,59948,view_meal,Avocado Toast,instagram/cpc,tablet,Qatar,1,321,37,78,No,Yes,Yes,Protein-Rich,$$$,No,No,Yes,94,English,No,No,0
+09/07/2025,10248,visit_home,Home,direct/none,desktop,Qatar,1,517,26,0,No,No,Yes,Low-Carb,,No,No,No,91,English,No,No,2
+09/07/2025,10248,view_menu,Menu,direct/none,desktop,Qatar,1,349,76,0,No,No,No,Low-Carb,,No,Yes,No,76,English,No,No,2
+09/07/2025,10248,view_meal,Veggie Wrap,direct/none,desktop,Qatar,1,526,44,234,No,No,No,Vegan,$$,No,No,Yes,52,English,No,No,0
+17/07/2025,60185,visit_home,Home,google/organic,desktop,Qatar,1,385,40,0,No,No,No,Low-Carb,,No,No,No,96,English,No,No,2
+17/07/2025,60185,view_menu,Menu,google/organic,desktop,Qatar,1,186,56,0,No,No,Yes,Low-Carb,,No,No,No,40,English,Yes,No,1
+17/07/2025,60185,view_meal,Avocado Toast,google/organic,desktop,Qatar,1,526,83,298,Yes,Yes,No,Vegan,$,No,No,No,21,English,No,No,0
+22/07/2025,48740,visit_home,Home,facebook/cpc,desktop,Qatar,1,421,10,0,No,No,Yes,Low-Carb,,No,No,No,46,English,No,No,2
+22/07/2025,48740,view_menu,Menu,facebook/cpc,desktop,Qatar,1,38,89,0,No,No,No,Low-Carb,,No,No,No,21,Arabic,No,No,2
+22/07/2025,48740,view_meal,Avocado Toast,facebook/cpc,desktop,Qatar,1,403,69,93,Yes,Yes,Yes,Low-Carb,$,No,Yes,Yes,70,English,No,Yes,0
+19/07/2025,52242,visit_home,Home,direct/none,desktop,Qatar,1,490,13,0,No,No,Yes,Low-Carb,,No,No,Yes,25,Arabic,No,No,2
+19/07/2025,52242,view_menu,Menu,direct/none,desktop,Qatar,1,37,38,0,No,No,No,Low-Carb,,No,No,No,78,English,No,No,2
+19/07/2025,52242,view_meal,Smoothie Bowl,direct/none,desktop,Qatar,1,88,35,58,Yes,No,No,Vegan,$,No,Yes,No,60,English,No,No,0
+15/07/2025,84164,visit_home,Home,facebook/cpc,desktop,Qatar,1,266,11,0,No,No,No,Low-Carb,,No,No,No,97,English,No,No,2
+15/07/2025,84164,view_menu,Menu,facebook/cpc,desktop,Qatar,1,398,39,0,No,No,Yes,Low-Carb,,No,Yes,No,93,English,No,No,2
+15/07/2025,84164,view_meal,Protein Pancakes,facebook/cpc,desktop,Qatar,1,73,51,241,No,Yes,No,Low-Carb,$$,No,No,No,91,Arabic,No,No,0
+07/07/2025,72445,visit_home,Home,direct/none,tablet,Qatar,1,135,34,0,No,No,No,Protein-Rich,,No,No,No,27,English,No,No,2
+07/07/2025,72445,view_menu,Menu,direct/none,tablet,Qatar,1,562,84,0,No,No,Yes,Protein-Rich,,No,No,No,58,Arabic,No,No,2
+07/07/2025,72445,view_meal,Protein Pancakes,direct/none,tablet,Qatar,1,189,32,247,Yes,No,No,Protein-Rich,$,No,No,No,22,English,Yes,No,0
+12/07/2025,21250,visit_home,Home,direct/none,desktop,Qatar,1,460,36,0,No,No,Yes,Protein-Rich,,No,No,Yes,86,Arabic,No,No,2
+12/07/2025,21250,view_menu,Menu,direct/none,desktop,Qatar,1,140,26,0,No,No,Yes,Protein-Rich,,No,No,No,40,English,No,No,2
+12/07/2025,21250,view_meal,Veggie Wrap,direct/none,desktop,Qatar,1,404,22,205,Yes,No,No,Protein-Rich,$$$,No,No,No,85,English,No,No,0
+06/07/2025,37451,visit_home,Home,direct/none,tablet,Qatar,1,142,68,0,No,No,No,Protein-Rich,,No,No,No,64,English,No,No,2
+06/07/2025,37451,view_menu,Menu,direct/none,tablet,Qatar,1,115,70,0,No,No,No,Protein-Rich,,No,No,No,34,Arabic,No,No,2
+06/07/2025,96512,visit_home,Home,direct/none,desktop,Qatar,1,346,49,0,No,No,Yes,Protein-Rich,,No,No,Yes,80,English,No,No,2
+06/07/2025,96512,view_menu,Menu,direct/none,desktop,Qatar,1,411,90,0,No,No,No,Protein-Rich,,No,Yes,No,25,English,No,No,2
+02/07/2025,64545,visit_home,Home,email/campaign,tablet,Qatar,1,390,42,0,No,No,Yes,Protein-Rich,,No,No,No,60,English,No,No,2
+02/07/2025,64545,view_menu,Menu,email/campaign,tablet,Qatar,1,220,38,0,No,No,Yes,Protein-Rich,,No,No,No,56,Arabic,No,No,2
+09/07/2025,38020,visit_home,Home,direct/none,mobile,Qatar,1,127,98,0,No,No,No,Protein-Rich,,No,No,No,97,Arabic,No,No,2
+09/07/2025,38020,view_menu,Menu,direct/none,mobile,Qatar,1,593,12,0,No,No,No,Protein-Rich,,No,No,Yes,68,English,No,No,2
+17/07/2025,46847,visit_home,Home,email/campaign,mobile,Qatar,1,31,19,0,No,No,No,Protein-Rich,,No,No,No,30,English,No,No,2
+17/07/2025,46847,view_menu,Menu,email/campaign,mobile,Qatar,1,44,51,0,No,No,No,Protein-Rich,,No,No,Yes,59,English,Yes,No,1
+03/07/2025,98858,visit_home,Home,email/campaign,tablet,Qatar,1,395,51,0,No,No,No,Protein-Rich,,No,No,Yes,92,English,Yes,No,1
+03/07/2025,98858,view_menu,Menu,email/campaign,tablet,Qatar,1,595,90,0,No,No,No,Protein-Rich,,No,No,No,94,English,No,No,2
+12/07/2025,12348,visit_home,Home,instagram/cpc,tablet,Qatar,1,481,85,0,No,No,No,Protein-Rich,,No,No,Yes,65,English,No,No,2
+12/07/2025,12348,view_menu,Menu,instagram/cpc,tablet,Qatar,1,134,64,0,No,No,Yes,Protein-Rich,,No,No,No,22,English,Yes,No,1
+17/07/2025,50108,visit_home,Home,facebook/cpc,mobile,Qatar,1,519,59,0,No,No,No,Protein-Rich,,No,No,No,48,English,No,No,2
+17/07/2025,50108,view_menu,Menu,facebook/cpc,mobile,Qatar,1,36,65,0,No,No,No,Protein-Rich,,No,No,No,37,English,No,No,2
+13/07/2025,12093,visit_home,Home,facebook/cpc,mobile,Qatar,1,308,35,0,No,No,No,Protein-Rich,,No,No,No,57,Arabic,No,No,2
+13/07/2025,12093,view_menu,Menu,facebook/cpc,mobile,Qatar,1,430,56,0,No,No,Yes,Protein-Rich,,No,No,No,77,English,No,No,2
+17/07/2025,67416,visit_home,Home,google/organic,desktop,Qatar,1,579,19,0,No,No,No,Protein-Rich,,No,No,No,27,English,Yes,No,1
+17/07/2025,67416,view_menu,Menu,google/organic,desktop,Qatar,1,99,41,0,No,No,No,Protein-Rich,,No,No,No,72,English,No,No,2
+13/07/2025,27020,visit_home,Home,facebook/cpc,tablet,Qatar,1,229,39,0,No,No,No,Protein-Rich,,No,No,No,30,English,No,No,2
+13/07/2025,27020,view_menu,Menu,facebook/cpc,tablet,Qatar,1,143,52,0,No,No,Yes,Protein-Rich,,No,Yes,No,47,Arabic,No,No,2
+09/07/2025,23159,visit_home,Home,instagram/cpc,desktop,Qatar,1,562,22,0,No,No,Yes,Protein-Rich,,No,No,No,81,English,No,No,2
+09/07/2025,23159,view_menu,Menu,instagram/cpc,desktop,Qatar,1,468,98,0,No,No,No,Protein-Rich,,No,No,No,31,English,Yes,No,1
+10/07/2025,22134,visit_home,Home,email/campaign,mobile,Qatar,1,373,99,0,No,No,No,Protein-Rich,,No,No,No,27,English,Yes,No,1
+10/07/2025,22134,view_menu,Menu,email/campaign,mobile,Qatar,1,192,63,0,No,No,No,Protein-Rich,,No,No,Yes,37,English,No,No,2
+15/07/2025,82805,visit_home,Home,facebook/cpc,tablet,Qatar,1,44,77,0,No,No,No,Protein-Rich,,No,No,No,90,English,No,No,2
+15/07/2025,82805,view_menu,Menu,facebook/cpc,tablet,Qatar,1,441,42,0,No,No,Yes,Protein-Rich,,No,No,No,61,Arabic,No,No,2
+19/07/2025,58748,visit_home,Home,instagram/cpc,mobile,Qatar,1,574,79,0,No,No,No,Protein-Rich,,No,No,Yes,51,English,No,Yes,2
+19/07/2025,58748,view_menu,Menu,instagram/cpc,mobile,Qatar,1,202,34,0,No,No,No,Protein-Rich,,No,No,No,24,Arabic,No,No,2
+12/07/2025,82655,visit_home,Home,email/campaign,tablet,Qatar,1,369,20,0,No,No,Yes,Protein-Rich,,No,No,No,22,English,No,Yes,2
+12/07/2025,82655,view_menu,Menu,email/campaign,tablet,Qatar,1,261,57,0,No,No,No,Protein-Rich,,No,No,No,79,English,No,No,2
+15/07/2025,68714,visit_home,Home,google/organic,desktop,Qatar,1,597,57,0,No,No,No,Protein-Rich,,No,No,Yes,26,English,No,No,2
+15/07/2025,68714,view_menu,Menu,google/organic,desktop,Qatar,1,320,16,0,No,No,No,Protein-Rich,,No,No,No,62,Arabic,No,No,2
+22/07/2025,99504,visit_home,Home,google/organic,mobile,Qatar,1,205,45,0,No,No,No,Protein-Rich,,No,No,No,26,English,Yes,No,1
+22/07/2025,99504,view_menu,Menu,google/organic,mobile,Qatar,1,438,79,0,No,No,Yes,Protein-Rich,,No,No,No,57,English,No,No,2
+06/07/2025,67055,visit_home,Home,google/organic,desktop,Qatar,1,230,26,0,No,No,Yes,Protein-Rich,,No,No,No,34,English,No,No,2
+06/07/2025,67055,view_menu,Menu,google/organic,desktop,Qatar,1,564,26,0,No,No,No,Protein-Rich,,No,Yes,Yes,92,English,No,No,2
+18/07/2025,76978,visit_home,Home,direct/none,tablet,Qatar,1,78,22,0,No,No,No,Protein-Rich,,No,No,No,56,Arabic,Yes,No,1
+18/07/2025,76978,view_menu,Menu,direct/none,tablet,Qatar,1,179,88,0,No,No,Yes,Protein-Rich,,No,No,Yes,36,English,No,No,2
+01/07/2025,94793,visit_home,Home,facebook/cpc,mobile,Qatar,1,546,33,0,No,No,No,Protein-Rich,,No,No,No,72,English,No,No,2
+01/07/2025,94793,view_menu,Menu,facebook/cpc,mobile,Qatar,1,305,25,0,No,No,No,Protein-Rich,,No,No,No,98,English,No,No,2
+13/07/2025,92715,visit_home,Home,email/campaign,tablet,Qatar,1,277,89,0,No,No,Yes,Protein-Rich,,No,No,No,67,English,No,No,2
+13/07/2025,92715,view_menu,Menu,email/campaign,tablet,Qatar,1,89,17,0,No,No,Yes,Protein-Rich,,No,No,No,57,Arabic,Yes,No,1
+19/07/2025,25681,visit_home,Home,instagram/cpc,tablet,Qatar,1,352,26,0,No,No,Yes,Protein-Rich,,No,No,No,33,English,No,No,2
+19/07/2025,25681,view_menu,Menu,instagram/cpc,tablet,Qatar,1,252,69,0,No,No,No,Protein-Rich,,No,No,No,81,English,Yes,No,1
+21/07/2025,69470,visit_home,Home,instagram/cpc,tablet,Qatar,1,48,11,0,No,No,No,Protein-Rich,,No,No,Yes,57,English,No,No,2
+21/07/2025,69470,view_menu,Menu,instagram/cpc,tablet,Qatar,1,144,50,0,No,No,No,Protein-Rich,,No,No,Yes,69,English,No,No,2
+20/07/2025,17752,visit_home,Home,instagram/cpc,tablet,Qatar,1,13,17,0,No,No,Yes,Protein-Rich,,No,No,No,23,English,Yes,No,1
+20/07/2025,17752,view_menu,Menu,instagram/cpc,tablet,Qatar,1,327,65,0,No,No,Yes,Protein-Rich,,No,No,No,51,English,No,No,2
+17/07/2025,19414,visit_home,Home,google/organic,tablet,Qatar,1,12,51,0,No,No,Yes,Protein-Rich,,No,No,Yes,55,English,No,No,2
+17/07/2025,19414,view_menu,Menu,google/organic,tablet,Qatar,1,79,77,0,No,No,Yes,Protein-Rich,,No,No,No,33,Arabic,No,No,2
+13/07/2025,41732,visit_home,Home,instagram/cpc,mobile,Qatar,1,193,12,0,No,No,No,Protein-Rich,,No,No,No,54,English,No,No,2
+13/07/2025,41732,view_menu,Menu,instagram/cpc,mobile,Qatar,1,114,76,0,No,No,Yes,Protein-Rich,,No,No,Yes,77,English,No,No,2
+07/07/2025,57685,visit_home,Home,facebook/cpc,mobile,Qatar,1,159,51,0,No,No,No,Protein-Rich,,No,No,Yes,78,English,No,No,2
+07/07/2025,57685,view_menu,Menu,facebook/cpc,mobile,Qatar,1,437,63,0,No,No,No,Protein-Rich,,No,No,Yes,96,Arabic,No,No,2
+16/07/2025,11956,visit_home,Home,email/campaign,tablet,Qatar,1,359,54,0,No,No,No,Protein-Rich,,No,No,No,25,English,No,No,2
+16/07/2025,11956,view_menu,Menu,email/campaign,tablet,Qatar,1,37,47,0,No,No,No,Protein-Rich,,No,No,No,79,English,No,Yes,2
+20/07/2025,51769,visit_home,Home,google/organic,desktop,Qatar,1,108,92,0,No,No,No,Protein-Rich,,No,No,No,51,English,No,No,2
+20/07/2025,51769,view_menu,Menu,google/organic,desktop,Qatar,1,155,31,0,No,No,No,Protein-Rich,,No,No,No,39,Arabic,No,No,2
+19/07/2025,30961,visit_home,Home,direct/none,mobile,Qatar,1,113,56,0,No,No,No,Protein-Rich,,No,Yes,No,33,English,Yes,Yes,1
+09/07/2025,41654,visit_home,Home,direct/none,desktop,Qatar,1,96,78,0,No,No,Yes,Protein-Rich,,No,Yes,No,66,Arabic,No,No,2
+13/07/2025,93279,visit_home,Home,email/campaign,desktop,Qatar,1,387,48,0,No,No,Yes,Protein-Rich,,No,No,No,95,English,No,No,2
+22/07/2025,90301,visit_home,Home,direct/none,mobile,Qatar,1,388,76,0,No,No,No,Protein-Rich,,No,No,No,43,English,No,No,2
+02/07/2025,70062,visit_home,Home,instagram/cpc,tablet,Qatar,1,244,31,0,No,No,No,Protein-Rich,,No,No,No,73,English,Yes,No,1
+22/07/2025,22852,visit_home,Home,google/organic,tablet,Qatar,1,313,32,0,No,No,Yes,Protein-Rich,,No,No,No,33,Arabic,No,No,2
+16/07/2025,35285,visit_home,Home,facebook/cpc,mobile,Qatar,1,396,40,0,No,No,Yes,Protein-Rich,,No,Yes,Yes,87,English,No,No,2
+20/07/2025,57829,visit_home,Home,facebook/cpc,tablet,Qatar,1,359,64,0,No,No,No,Protein-Rich,,No,Yes,No,85,English,No,Yes,2
+10/07/2025,71079,visit_home,Home,instagram/cpc,mobile,Qatar,1,356,45,0,No,No,No,Protein-Rich,,No,No,Yes,54,English,No,No,2
+06/07/2025,45623,visit_home,Home,email/campaign,tablet,Qatar,1,54,50,0,No,No,No,Protein-Rich,,No,No,No,37,English,Yes,No,1
+08/07/2025,43093,visit_home,Home,instagram/cpc,desktop,Qatar,1,334,77,0,No,No,No,Protein-Rich,,No,No,No,28,English,No,No,2
+03/07/2025,84579,visit_home,Home,instagram/cpc,mobile,Qatar,1,369,67,0,No,No,No,Protein-Rich,,No,No,No,73,English,No,No,2
+22/07/2025,28001,visit_home,Home,facebook/cpc,desktop,Qatar,1,412,78,0,No,No,Yes,Protein-Rich,,No,No,Yes,28,English,No,No,2
+06/07/2025,92256,visit_home,Home,direct/none,tablet,Qatar,1,292,57,0,No,No,No,Protein-Rich,,No,No,No,71,English,No,No,2
+05/07/2025,34415,visit_home,Home,google/organic,tablet,Qatar,1,430,75,0,No,No,No,Protein-Rich,,No,No,No,70,English,No,No,2
+10/07/2025,56199,visit_home,Home,email/campaign,mobile,Qatar,1,422,39,0,No,No,No,Protein-Rich,,No,No,No,85,Arabic,No,No,2
+05/07/2025,88583,visit_home,Home,google/organic,tablet,Qatar,1,139,38,0,No,No,No,Protein-Rich,,No,No,No,53,English,No,No,2
+06/07/2025,99807,visit_home,Home,direct/none,mobile,Qatar,1,477,98,0,No,No,No,Protein-Rich,,No,No,No,62,English,No,No,2
+22/07/2025,83671,visit_home,Home,facebook/cpc,tablet,Qatar,1,458,29,0,No,No,Yes,Vegan,,No,No,Yes,39,English,No,No,2
+17/07/2025,26424,visit_home,Home,direct/none,tablet,Qatar,1,455,11,0,No,No,Yes,Vegan,,No,No,No,93,English,No,No,2
